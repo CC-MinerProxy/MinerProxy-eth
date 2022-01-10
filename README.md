@@ -27,10 +27,7 @@ nohup ./minerProxy.linux & (后台运行，注意：& 也需要复制，运行�
 tail -f nohup.out (后台运行时查看)
 ```
 
-后台运行
-nohup ./minerProxy.linux  &  (后台运行，注意： &  也需要复制，运行完再敲几下回车)
 
-tail -f nohup.out (后台运行时查看) 
 
 运行成功后访问 IP:18888 (如：127.0.0.1:18888 注意开放端口) 进行配置即可。 
 ```
