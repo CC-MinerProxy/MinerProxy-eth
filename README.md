@@ -1,7 +1,7 @@
 # minerProxy
 矿工交流 TG电报群： https://t.me/MinerProxy_eth
 ![img.png](img.png)
-![img_4.png](img_4.png)
+
 
 
 解压缩后复制到服务器，运行minerProxy_web，然后用浏览器访问 “公网ip:18888”；密码默认:123456789  进入管理界面 
@@ -46,4 +46,4 @@ killall minerProxy.linux
 ```bash
 tail -f nohup.out
 ```
-
+![img_4.png](img_4.png)
